@@ -120,15 +120,8 @@ const aboutMe = {
 
 ### 📬 Связь со мной
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MikeIv)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-telegram)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mike@ivanov-post.ru)
 
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=MikeIv&icon=0&color=0)
-
-**Создано с ❤️ используя [GPRM](https://gprm.itsvg.in)**
 
 </div>
-
