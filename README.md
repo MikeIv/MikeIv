@@ -91,6 +91,8 @@ Frontend разработчик, специализирующийся на со�
 
 <a href="https://github.com/MikeIv/personal-room" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MikeIv&repo=personal-room&theme=dark" alt="personal-room"></a>
 
+**personal web** - Личный веб-сайт и портфолио
+
 </div>
 
 ---
