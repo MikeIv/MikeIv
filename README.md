@@ -1,129 +1,43 @@
-<div align="center">
+# Михаил Иванов
 
-# 👋 Привет, я Михаил!
+**Nuxt fullstack разработчик** — Vue 3, Nuxt 4, TypeScript, Nitro, Prisma.
 
-### 💻 Frontend Developer
+Собираю полный цикл на Nuxt 4: интерфейс, серверные эндпоинты, база,
+авторизация, тесты и деплой. Девять лет в веб-разработке, 15+ коммерческих
+проектов; до веба пять лет в дизайне и полиграфии.
 
-<a href="https://your-portfolio-url.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
-<a href="https://t.me/Mike_Iv" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-<a href="mailto:mike@ivanov-post.ru" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+[Сайт-резюме](https://mikeiv.github.io/resume/) ·
+[PDF](https://mikeiv.github.io/resume/Ivanov-Mikhail-Nuxt-Fullstack.pdf) ·
+[hh-autopilot](https://github.com/MikeIv/hh-autopilot) ·
+[Telegram](https://t.me/Mike_Iv) ·
+[Email](mailto:mike@ivanov-post.ru)
 
-</div>
+## Стек
 
----
+`Nuxt 4` · `Vue 3` · `TypeScript` · `Nitro` · `Prisma` · `PostgreSQL` · `Vitest` ·
+`Playwright` · `SCSS` · `Figma`
 
-## 💫 О себе
+## Избранные проекты
 
-Frontend разработчик, специализирующийся на создании современных и интерактивных веб-приложений. Увлекаюсь разработкой пользовательских интерфейсов и постоянно изучаю новые технологии.
+| Проект | Что делает | Стек |
+| --- | --- | --- |
+| [resume](https://github.com/MikeIv/resume) | Сайт-резюме: из одного YAML собираются сайт, PDF, DOCX, JSON Resume и `llms.txt` | Nuxt 4, SSG, Vitest, Lighthouse 100 |
+| [hh-autopilot](https://github.com/MikeIv/hh-autopilot) | Локальный поиск работы на hh: сбор, скоринг, письма, очередь ревью и отправка с лимитами | Nuxt 4, Nitro, Prisma, Playwright |
+| [Nuxt4_full](https://github.com/MikeIv/Nuxt4_full) | Mini-SaaS: task board с ролями, авторизацией и миграциями | Nuxt 4, Nitro, Prisma, better-auth |
+| [SC_Shelkovskiy](https://github.com/MikeIv/SC_Shelkovskiy) | Сайт комплекса: услуги, расписание, формы заявок | Vue 3, Vite, TypeScript, Nuxt UI |
+| [RyazPressa](https://github.com/MikeIv/RyazPressa) | Медиаплатформа с публикациями, рубриками и серверной частью | Vue 3, TypeScript, Nitro |
+| [lk_assistant](https://github.com/MikeIv/lk_assistant) | Личный кабинет с авторизацией, формами и состояниями загрузки | Vue 3, Pinia, TypeScript |
 
----
+## Как работаю
 
-## 🛠️ Технологический стек
+- типы и контракты — до логики, проверки — объяснимые и воспроизводимые;
+- тесты Vitest и Playwright, CI на каждый push, Lighthouse с порогами;
+- AI-агенты по формализованному процессу: правила, план, волны, ревью — вместо
+  «сгенерировать и надеяться».
 
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![NuxtJS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+## Контакты
 
-### Стилизация
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Инструменты сборки
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-### Пакетные менеджеры
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-
-### Дизайн
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
-### Другие инструменты
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-## 📊 Статистика GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikeIv&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&line_height=20)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikeIv&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeIv&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=8)
-
-</div>
-
----
-
-## 🔥 Достижения
-
-![trophy](https://github-profile-trophy.vercel.app/?username=MikeIv&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-## 📈 Активность
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 💼 Проекты
-
-<div align="center">
-
-### 🌟 Избранные проекты
-
-<a href="https://github.com/MikeIv/personal-room" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MikeIv&repo=personal-room&theme=dark" alt="personal-room"></a>
-
-**personal web** - Личный веб-сайт и портфолио
-
-</div>
-
----
-
-## 📝 Последние посты в блоге
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<div align="center">
-
-### 💡 Факт обо мне
-
-```javascript
-const aboutMe = {
-  code: ['JavaScript', 'TypeScript', 'Vue.js', 'Nuxt.js'],
-  tools: ['VS Code', 'Figma', 'Git'],
-  interests: ['Frontend Development', 'UI/UX Design', 'Web Performance'],
-  currentlyLearning: 'Advanced Vue.js patterns',
-  funFact: 'Люблю создавать красивые и функциональные интерфейсы! 🎨'
-};
-```
-
----
-
-### 📬 Связь со мной
-
-<a href="https://t.me/Mike_Iv" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-<a href="mailto:mike@ivanov-post.ru" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-
-
-</div>
+- Сайт: [mikeiv.github.io/resume](https://mikeiv.github.io/resume/)
+- Telegram: [@Mike_Iv](https://t.me/Mike_Iv)
+- Email: [mike@ivanov-post.ru](mailto:mike@ivanov-post.ru)
+- GitHub: [github.com/MikeIv](https://github.com/MikeIv)
