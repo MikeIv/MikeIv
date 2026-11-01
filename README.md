@@ -73,7 +73,7 @@
 | **[nuxt-booking-app](https://github.com/MikeIv/nuxt-booking-app)** | Второй отель на той же кодовой базе бронирования: номера, тарифы, оплата, мультиязычность | Nuxt 4, Vue 3, Nuxt UI, PrimeVue, Pinia, Vitest, Playwright |
 | **[Nuxt4_full](https://github.com/MikeIv/Nuxt4_full)** | Mini-SaaS: task board с ролями, авторизацией и миграциями | Nuxt 4, Nitro, Prisma, PostgreSQL, better-auth |
 | **[SC_Shelkovskiy](https://github.com/MikeIv/SC_Shelkovskiy)** | Сайт комплекса: услуги, расписание, формы заявок | Vue 3, Vite, TypeScript, Nuxt UI |
-| **[RyazPressa](https://github.com/MikeIv/RyazPressa)** | Медиаплатформа с публикациями, рубриками и серверной частью | Vue 3, TypeScript, Nitro |
+| **[RyazPressa](https://ryazpressa.ru/)** | Медиаплатформа издательства «Пресса»: публикации, рубрики и серверная часть — [код](https://github.com/MikeIv/RyazPressa) | Vue 3, TypeScript, Nitro |
 | **[lk_assistant](https://github.com/MikeIv/lk_assistant)** | Личный кабинет с авторизацией, формами и состояниями загрузки | Vue 3, Pinia, TypeScript |
 
 ## ⚙️ Как работаю
